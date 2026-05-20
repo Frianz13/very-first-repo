@@ -12,6 +12,7 @@ Portofolio project for my job application purposes
 This repository documents my process of completing a technical onboarding quest as part of a job application. The goal was to install a set of AI-assisted development tools, set up a GitHub repository, and document the entire process, including any issues encountered along the way.
 
 I'm a Content Creator and Graphic Designer with experience in visual storytelling and digital media. I also have a background in AI evaluation, like writing prompts, running model experiments, and reporting model weaknesses. This quest felt like a natural extension of my curiosity: learning new tools and hitting real obstacles. So I approached it the same way I approach any creative challenge: with curiosity, adaptability, and honesty.
+
 ---
 
 ## Tools Installed
