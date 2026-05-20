@@ -68,7 +68,9 @@ From there, I tried every approach I could find:
 
   This confirmed that the Extensions system itself was broken in my installation, not just the UI navigation.
 
-After exhausting all options, my mentor advised me to move forward using a different IDE and to document the issue honestly, which is exactly what I have done here.
+After exhausting all options, I found myself wondering whether the broken Extensions tab was perhaps intentional, a deliberate test of how I handle an obstacle that has no clean solution. I raised this with my mentor, who acknowledged it as a genuine possibility and suggested switching to VS Code as a plan B if Cursor remained unresolvable.
+
+Before making the switch, I weighed the decision myself. The original task specified Cursor, and I was aware I was deviating from that. But after considering the options : continuing to troubleshoot an issue that neither I nor an experienced developer could resolve, versus switching to a well-supported IDE and delivering a finished, documented project, I made the independent call that VS Code was the right move. The end goal was a working project with honest documentation, and I'm confident that goal was met.
 
 **Resolution:** I switched to **VS Code**, where the Extensions tab is clearly visible in the Activity Bar by default. I was immediately able to search for and install both Claude Code and Codex from there without any issues.
 
