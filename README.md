@@ -20,8 +20,6 @@ My background is in Content Creation and Graphic Design, with experience in visu
 
 # Task 1 — Environtment Setup
 
----
-
 ## About This Task
 
 **Date:** May 20, 2026
@@ -96,7 +94,6 @@ I chose full transparency in this README.md file rather than glossing over the o
 
 # Task 2 — Research Project : Cold Outreach for B2B SaaS
 
----
 
 ## About This Task
 
