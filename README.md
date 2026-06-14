@@ -6,17 +6,27 @@ Portfolio project for my job application purposes
 # 100Hires Portfolio Project
 
 **Applicant:** Zahra Fitriansya ([@Frianz13](https://github.com/Frianz13))  
-**Date:** May 20, 2026
+
 
 ---
 
 ## About This Project
 
-This repository documents my process of completing a technical portfolio task as part of a job application for a Junior Growth Marketing Specialist role at 100Hires. The task required installing a set of AI-assisted development tools setting up a public GitHub repository, and documenting the entire process, including any obstacles encountered along the way.
+This repository documents my process of completing a technical portfolio task as part of a job application for a Junior Growth Marketing Specialist role at 100Hires.
 
 My background is in Content Creation and Graphic Design, with experience in visual storytelling and digital media. I also have a background in AI evaluation : writing prompts, running model experiments, and reporting model weaknesses. This task felt like a natural extension of that curiosity. I approached it the same way I approach any creative challenge, with adaptability, research, and honesty about what did and didn't work.
 
 ---
+
+# Task 1 — Environtment Setup
+
+---
+
+## About This Task
+
+**Date:** May 20, 2026
+
+ This task required installing a set of AI-assisted development tools setting up a public GitHub repository, and documenting the entire process, including any obstacles encountered along the way.
 
 ## Tools Installed
 
@@ -81,3 +91,19 @@ Before making the switch, I weighed the decision myself. The original task speci
 This process reinforced something I already believe : real-world problem solving is rarely a straight line. The ability to research independently, know when to pivot, and document failure honestly is just as valuable as following instructions perfectly.
 
 I chose full transparency in this README.md file rather than glossing over the obstacle. If anything, hitting this wall and working through it is a more accurate demonstration of how I actually operate.
+
+---
+
+# Task 2 — Research Project : Cold Outreach for B2B SaaS
+
+---
+
+## About This Task
+
+**Date:** 
+
+## Topics
+
+## Research Folder
+
+## Reflection
