@@ -23,7 +23,7 @@ So the topic that looked the most foreign at first turned out to be the closest 
 
 ## Experts
 
-Ten (or eleven?) practitioners, plus an Indonesian-market note (see Findings).
+Eleven practitioners, plus an Indonesian-market note (see Findings).
 
 ### YouTube (transcripts in `youtube-transcripts/`)
 1. **Jason Bay** — founder, Outbound Squad. Cold email + cold call frameworks. *(2 transcripts)*
