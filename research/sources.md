@@ -51,7 +51,7 @@ Looking across everyone I collected, a few things kept repeating :
 - **Deliverability and data quality decide whether cold email is even seen** (Will Allred, Kevin Dorsey).
 - **Handle objections by acknowledging first, not pushing harder** (Florin Tatulea's 4-step framework, Jason Bay's call teardowns).
 
-One thing genuinely surprised me. In Indonesia, a call or message from someone you don't know is usually assumed to be a scam, so I'd never thought of cold outreach as something *normal*. It was a small shock to realize that for businesses abroad, this kind of outreach isn't just accepted, it's expected, even necessary.
+One thing genuinely surprised me. In Indonesia, a call or message from someone you don't know is usually assumed to be a scam, so I'd never thought of cold outreach as something *normal*. It was a small surprise to realize that for businesses abroad, this kind of outreach isn't just accepted, it's expected, even necessary.
 
 And it turned out I'd already been doing a rough version of it. For my own creative service I offer through WhatsApp Status seen by thousands of contacts (some I don't actually know, cloned from my parents' contacts), and in WhatsApp groups mostly with strangers in them. I've offered face-to-face when the setting allowed, and I once printed brochures for my digital services and handed them out wherever I stopped. I just never had the words "cold outreach" for any of it.
 
