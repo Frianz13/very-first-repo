@@ -5,7 +5,7 @@ Portfolio project for my job application purposes
 
 # 100Hires Portfolio Project
 
-**Applicant:** Zahra Fitriansya ([@Frianz13](https://github.com/Frianz13))  
+**Applicant:** Zahra Fitriansya ([Github](https://github.com/Frianz13), [LinkedIn](www.linkedin.com/in/frianz13))  
 
 
 ---
@@ -18,7 +18,7 @@ My background is in Content Creation and Graphic Design, with experience in visu
 
 ---
 
-# Task 1 — Environtment Setup
+# Task 1 — Environment Setup
 
 ## About This Task
 
@@ -94,13 +94,33 @@ I chose full transparency in this README.md file rather than glossing over the o
 
 # Task 2 — Research Project : Cold Outreach for B2B SaaS
 
-
 ## About This Task
 
-**Date:** 
+**Date:** June 16, 2026
 
-## Topics
+For the second task I chose one topic and built a small research collection around it. The brief: pick a topic, find credible expert practitioners (not random blog posts), and gather their material into the `/research` folder so it reads like the start of a real playbook. I focused on people who actively teach **cold outreach for B2B SaaS**, vetted every source individually, and kept notes on what I found.
+
+## Topic
+
+From the eight topics offered, I chose **Cold Outreach Pipeline for B2B SaaS**, the one closest to what I already do by instinct (I run informal outreach for my own creative service) and the most structured and repeatable to research. The full reasoning is in [`research/sources.md`](research/sources.md#why-this-topic).
 
 ## Research Folder
 
+Everything lives in [`/research`](research):
+
+| Path | What's inside |
+|---|---|
+| `sources.md` | Master doc : why this topic, how I chose and collected the experts, the full list, patterns I noticed, and a finding on the Indonesian market |
+| `youtube-transcripts/` | Transcripts, one subfolder per expert, pulled with yt-dlp and cleaned |
+| `linkedin-posts/` | Key posts per expert, linked and summarized |
+| `other/` | Supporting references |
+
+**11 practitioners** in total : 6 through YouTube (Jason Bay, Josh Braun, John Barrows, Morgan J. Ingram, Armand Farrokh & Nick Cegelski from 30 Minutes to President's Club) and 5 through LinkedIn (Jed Mahrle, Will Allred, Florin Tatulea, Mark Colgan, Kevin Dorsey). Plus a note on the local Indonesian market.
+
 ## Reflection
+
+Going in, I had no idea what this topic was. I first heard "Cold outreach pipeline for B2B SaaS" from the employer of 100Hires himself. I'd seen the words "pipeline," "B2B," and "SaaS" around before, but never knew what they meant. Through this task I finally do: cold outreach is reaching out to promote your business *first*, to people who don't know you yet; B2B (Business to Business) means selling to other businesses rather than consumers; and SaaS (Software as a Service) means the business runs on software that does the serving.
+
+The hardest part was the searching. Scrolling LinkedIn for posts actually relevant to this topic was genuinely tough, they're mixed in with everyone's other business content, so I had to look carefully. It was harder still with local practitioners, who I expected to fit but who rarely post about cold outreach at all.
+
+What I'm quietly proud of : I checked every source myself instead of trusting them blindly from AI assistant's search results, and that caught several that were mislabeled: videos credited to the wrong person, and a panel that wasn't a single expert which kept the whole collection honest. And what it taught me about myself is that I can pick up a completely unfamiliar, professional topic fast and that something I'd been doing on instinct for my own small business turned out to be the real thing, just without the vocabulary. I wasn't as far behind as I assumed.
