@@ -13,6 +13,8 @@
 
 How many personalized emails are we about to send with this campaign?
 
+— 6,474.
+
 — Nonsense. Let's do it.
 
 — So, how do we get here? Well, I used to actually be a VP of sales, and often times our [music] best marketing ideas would come from the sales team.
