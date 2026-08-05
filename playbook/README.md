@@ -198,7 +198,111 @@ Standing opens the diaphragm and audibly improves the delivery. On expression : 
 
 ## B. Where experts disagree
 
-[TBD]
+### 1. How long a new domain has to be warmed
+
+**Will Allred** puts the warming period at **three months or more**, alongside rotating secondary domains and never bulk-sending from a single inbox. He treats deliverability as the bottleneck that decides whether anything else in the email matters.
+*(source: Will Allred, [LinkedIn](https://www.linkedin.com/posts/williamallred_weve-run-some-cold-email-experiments-for-activity-7458187629520592896-PpGl), post from 12.05.2026)*
+
+**Armand Farrokh and Nick Cegelski** warmed twenty domains for **two weeks** before sending 5,224 emails. They reported the result openly : a 1.1% reply rate, thirteen positive replies out of fifty-seven, and their own summary that the campaign was a solid B minus.
+*(source: Armand Farrokh & Nick Cegelski, ["How Many Meetings Can I Book Off 6,474 Personalized Cold Emails?"](https://www.youtube.com/watch?v=xz1Aw4y3CdI), published 24.02.2026)*
+
+**Where I land, and why.** I take Allred's three months, and I want to be careful about the reason, because the obvious argument is not available to me.
+
+It is tempting to say the two-week campaign underperformed *because* the domains were undercooked. I cannot claim that. The same campaign had 40% of its objections traced to stale data and another 20% lost to Christmas timing, and either of those alone could account for the result. Nobody ran the experiment that would separate them.
+
+What I can say is that the two positions carry very different costs when you are wrong, and the reader this playbook addresses has one sending domain rather than twenty. If Allred is too cautious, the price is waiting longer than necessary. If the two-week figure is too aggressive, the price is the reputation of the only address you own, and that is not something you can warm your way back out of quickly.
+
+So the decision is not really about which number is more accurate. It is about which mistake you can survive. **Three months costs time. Two weeks can cost the channel.** Where the evidence does not settle a question, I would rather be slow than unreachable.
+
+I also note that the two claims are not the same kind of claim. Farrokh and Cegelski were not recommending two weeks as a rule ; they were describing what they happened to do, and they were honest enough to publish a B-minus. Allred is stating a rule. I have weighted them accordingly.
+
+The counter-argument I looked for and could not make is the obvious one about incentives : Allred co-founded a cold email tool, so a reader might suspect he benefits from making deliverability sound difficult. It does not hold. Lavender is a copy tool, not a domain-warming service, and in the same post he reports that paid third-party intent data made **no measurable difference** against a well-chosen **ICP**, meaning an ideal customer profile : the written description of which companies and roles you have decided are worth contacting at all. That is a man arguing against buying software, not for it.
+
+### 2. Whether personalisation is still worth the time
+
+**John Barrows** takes relevance over personalisation when forced to choose, and says so flatly : *"I'm going relevance all day long."* Relevance scales and personalisation does not, because the same well-aimed question can be put to fifty comparable buyers while a personal detail is spent after one use. *"Just because you know I went to the University of Maryland does not buy you any points these days."*
+*(source: John Barrows, ["Personalization vs Relevance"](https://www.youtube.com/watch?v=Cqw1jBYOm4U), published 29.03.2026)*
+
+**Mark Colgan** goes further : personalisation has been commoditised by AI, so whatever advantage it once carried has moved to situational relevance and social proof.
+*(source: Mark Colgan, [LinkedIn](https://www.linkedin.com/posts/outboundsalestech_outboundsales-b2bsales-salesstrategy-activity-7467175858944974848-TQ6P), post from 01.06.2026)*
+
+**Will Allred** appears to argue the opposite. Identical messaging to every seat in a company is one of the biggest problems in cold email, because a CFO, an FP&A director and a finance operations analyst do not care about the same thing, and telling them apart takes real buyer knowledge rather than *"generic LLM output."*
+*(source: Will Allred, [LinkedIn](https://www.linkedin.com/posts/williamallred_one-of-the-biggest-problems-with-your-cold-activity-7442903238540013568-A5Ux), post from 15.04.2026)*
+
+**Jason Bay** is the only one of the four with a measurement behind him. Personalisation or a trigger raises reply rates roughly fivefold, from about 2% to about 10%. But for director-and-above personas, referencing something happening at the **company** produces a **50% higher** reply rate than referencing something about the **individual**.
+*(source: Jason Bay, ["Cold Email Masterclass"](https://www.youtube.com/watch?v=JX1UNIJwcCY), published 05.05.2026)*
+
+**Barrows also settles it himself, in the same video, and nobody quotes this part.** He does not reject personalisation. He calls the two together *"the holy grail"*, and describes his own practice as *"I'm going to sprinkle in some personalization... with some tools that give me some triggers that are happening and I can make connections to. But, I'm going to go relevance, too."* **Triggers are exactly what Bay measured at fivefold.** The man used as the case against personalisation is running the technique the case for it is built on.
+*(same video)*
+
+**Where I land, and why.** There is no winner to declare here, and saying so is the finding rather than a way of avoiding one. I first read this as a real disagreement and went looking for a side to take. Taking one would have meant inventing a result.
+
+**The word *personalisation* is doing two different jobs, and only one of them survives contact with the numbers.** Barrows and Colgan are attacking personal trivia : where someone studied, what is visible on their profile. Allred is defending something else entirely, that a finance analyst and a CFO should not receive the same paragraph. That is a claim about **roles**, not about individuals, and Bay's 50% figure is precisely the measurement of that distinction. Allred is not on the other side of this argument. He is describing what Bay calls company-level context, in different words, and Barrows is describing what Bay calls a trigger.
+
+**What I add, since I am not picking between them, is where the argument gets misused.** The case for personalisation is usually made with Bay's fivefold figure. That figure is not evidence for personal trivia. What Bay measured was a trigger **or** a piece of context about the buyer, which is Barrows's own definition of relevance quoted back with a number attached. The strongest number in the collection is routinely cited in support of the practice it undercuts.
+
+**Where this is thin, and what would change it.** Bay's fivefold figure groups triggers and buyer context together, so I cannot fully separate them from his published numbers either. I am reading his second finding back onto his first, and he does not do that himself. His 50% company-level advantage is also scoped explicitly to **director-and-above** personas, and below that line I have no evidence at all. It is entirely possible that personal detail still earns its keep with someone who receives four cold emails a week rather than forty. A breakdown of person-level personalisation against no personalisation for junior personas would settle it, and nobody has published one.
+
+### 3. John Barrows against John Barrows, eight years apart
+
+This one is not two practitioners disagreeing. It is one practitioner disagreeing with himself, and it is the clearest contradiction in everything I collected.
+
+**In 2017** he is unambiguous : a sequence *"shouldn't continue to reference a failed attempt by saying stuff like did you get my first email or bubbling this one up to the top."* It adds nothing for the reader and marks the message as a follow-up before they have read a word of it.
+*(source: John Barrows, ["Strategic Contact Strategy for Tier 1 Accounts"](https://www.youtube.com/watch?v=EDkjrZWyPUU), published 15.12.2017)*
+
+**In 2026** his entire anti-ghosting technique is built on referencing a failed attempt. The recommended line is *"Not sure what happened. Let me know when you want to reschedule."* That is a direct reference to something that did not happen. He also recommends replying inside the same dead thread rather than starting a clean one, so the failed attempt stays visible above every new message.
+*(source: John Barrows, ["How to Follow Up When You Get Ghosted"](https://www.youtube.com/watch?v=3ImjXwvqDtM), published 14.04.2026)*
+
+**Where I land, and why.** Both are right, and the missing word is **cold**.
+
+The 2017 rule is about someone who has never spoken to you. There, a reference to a previous email is a reference to a previous *intrusion*. It tells the reader they have already ignored you once and invites them to do it again. The 2026 technique is about someone who did speak to you, agreed a next step, and then went quiet. There, the failed attempt is not an intrusion but a **shared fact**, and refusing to name it makes the message strange : you would be writing to a person who both of you know missed a meeting, and pretending they did not.
+
+So the contradiction is real but it is a contradiction of **scope**, not of principle. The principle underneath both is the same : never make the reader carry your disappointment. In 2017 that means not mentioning the silence. In 2026 it means mentioning it in the flattest possible way and immediately handing back an easy exit.
+
+**Why I am not simply calling the old advice outdated.** That was my first instinct, and I think it is wrong. If the 2017 rule had expired, the 2026 video would use it on cold contact too, and it does not. The ghosting technique is explicitly scoped to people who already replied. Nothing in the later material retracts the earlier rule. What changed in those eight years is which situation Barrows is talking about, and he never says so.
+
+**What this costs him, and me.** He publishes both without ever marking the boundary, and a reader who finds the 2026 video first will carry *"reference the failed attempt"* straight into cold outreach, where the 2017 rule says it will hurt them. That is a genuine failure of the source, and it is the reason 4.2 carries a scope sentence that Barrows himself never wrote. I have taken a position he has not stated, using his own two videos as the evidence, and if he ever addressed the boundary directly and drew it somewhere else, I would be wrong.
+
+### 4. Whether the opening of a cold call should be scripted
+
+**John Barrows** hands you the words and a fixed order. Weak openers are to be replaced with specific stronger ones : *"how are you doing today"* becomes *"thanks for taking my call"* ; *"is this a good time"* becomes *"do you have a few moments"*, which quantifies the request ; *"touching base"* or *"checking in"* becomes *"the reason for my call is"*, because the weak version announces there is no reason for the call. He gives the cadence itself : thanks for taking my call, then do you have a few moments or can you help me, then the reason for my call is.
+*(source: John Barrows, ["Starting with Powerful Introductions"](https://www.youtube.com/watch?v=eiHUey6h_cY), published 16.02.2018)*
+
+**Josh Braun** builds his entire method against that posture. *"It's not your job to fill people's heads with information when you cold call. Your job is to draw it out. Buyers have the answers."* The move is to raise one possible problem without assuming they have it, ask how they currently handle it, and then *"shut the front door and listen."*
+*(source: Josh Braun, ["How to Make a Cold Call"](https://www.youtube.com/watch?v=hpXev0vUcvQ), published 26.03.2026)*
+
+**Where I land, and why.** Read as consecutive instructions these give a reader whiplash : memorise these exact lines, then do not sound rehearsed. They are compatible, but only if you know which one governs when, and neither of them says.
+
+**Barrows owns the first ten seconds. Braun owns everything after that.** In the opening you have not earned a conversation yet, and the only job is to state a reason before the other person decides to end the call. That is a delivery problem, and a scripted line solves it. The moment they keep listening, the job changes : it stops being delivery and becomes asking. **The mistake is carrying the scripted posture past the opening**, which is exactly what Braun is warning about, and it is why his advice reads as a contradiction of Barrows rather than a continuation of him.
+
+**Why I do not simply prefer the newer source.** Barrows is 2018 and Braun is 2026, so the easy move is to say the older advice has been overtaken. I do not think that is what happened. Braun is not arguing that openers should be weak ; he is silent on the opening and specific about everything after it. Barrows is specific about the opening and silent about the rest. **They are not competing for the same ten seconds**, and treating an eight-year gap as evidence of succession would be reading a chronology into two people who are answering different questions.
+
+**Where this is thin.** This is my reconciliation, not theirs. Neither of them draws the boundary I am drawing, and I have no measurement showing that the handover point is the opening rather than somewhere later in the call. If Braun were asked directly, he might well say the scripted opener is itself the problem.
+
+### 5. Where the biggest lever actually is
+
+Three practitioners name three different things as the single biggest determinant of whether cold outreach works, and they cannot all be right. Colgan rules out messaging by name, which is Mahrle's answer, and rules out tools, which is where the infrastructure behind deliverability sits.
+
+**Mark Colgan : who you contact.** *"Account selection is the single biggest performance lever. Not messaging, not channels, not tools."*
+*(source: Mark Colgan, [LinkedIn](https://www.linkedin.com/posts/outboundsalestech_outboundsales-b2bsales-salesstrategy-activity-7467175858944974848-TQ6P), post from 01.06.2026)*
+
+**Jed Mahrle : what you write.** His three-part email framework lives or dies on the diagnostic question, which he treats as the component worth iterating on more than any other.
+*(source: Jed Mahrle, [LinkedIn](https://www.linkedin.com/posts/outboundsales_sales-activity-7462125341667409920-yE-0), post from 25.05.2026)*
+
+**Will Allred : whether it arrives.** Deliverability is the bottleneck, and a message in the spam folder has no copy problem left to solve.
+*(source: Will Allred, [LinkedIn](https://www.linkedin.com/posts/williamallred_weve-run-some-cold-email-experiments-for-activity-7458187629520592896-PpGl), post from 12.05.2026)*
+
+**Where I land, and why.** I do not rank them, and refusing to rank them is the position rather than an evasion of it. The question assumes these three quantities are the same kind of thing and can be lined up by size. Two of them cannot, and the third is not the same kind of thing at all.
+
+**First, deliverability is a gate, not a lever.** A lever returns more the harder you pull it. Deliverability does not behave that way. Below the threshold your result is zero regardless of everything else, and above it further effort returns almost nothing, because a domain twice as warm as it needs to be does not double your replies. It is a fixed cost paid once, at the start, and then largely stopped thinking about. Allred is describing a precondition and calling it a lever. **You cannot skip it, and you cannot win with it either.**
+
+**Second, the remaining two do not add together. They multiply.** Your result is the right person multiplied by a message worth answering. Either one at zero takes the whole product to zero, and no amount of the other compensates, which is what makes the ranking question unanswerable rather than merely hard. You cannot ask which factor of a product is the bigger factor. **Colgan and Mahrle are not making rival claims about size. They are each naming a necessary condition and mistaking it for a sufficient one.**
+
+**So I replace the question with one that can be answered.** Not *which of these is biggest*, which has no answer, but **which of these is currently my weakest**, which has a different answer every month and is the only version a reader can act on. Fix the smallest factor, then look again. That is a decision rule rather than a ranking, and unlike a ranking it does not go stale.
+
+**Applied to the reader described at the top of this playbook, it does produce an order, and the order is the message first.** Not because writing is the bigger lever, but because at the beginning it is reliably the weaker one : a first-time sender has never written cold copy, while their targeting, done by hand and imperfectly, is at least being done. It is also the factor with the most room left, since targeting without paid data tools hits a ceiling quickly, whereas message quality has no ceiling and costs only revision. **That conclusion is the output of the rule, not a claim about which lever is larger, and if their weakest factor changes the rule sends them somewhere else.**
+
+**The one place the two are genuinely not symmetric, which is the best argument against treating them as equal partners.** They fail differently. A perfect email to the wrong person is a permanent no, because no writing quality makes someone buy what they have no use for. An ordinary email to exactly the right person at the right moment still gets answered surprisingly often. So bad targeting cannot be rescued by good writing, while good targeting partly rescues bad writing. That asymmetry is about the **shape** of the failure rather than its size, and it does not restore the ranking, but it is the reason I would never tell anyone to fix their copy while knowingly sending to the wrong list.
 
 ---
 
