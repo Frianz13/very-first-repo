@@ -402,7 +402,23 @@ I have not seen this framing anywhere in the material I collected. Every source 
 
 ## E. Weaknesses of this playbook
 
-[TBD]
+I would rather list these myself than have them found.
+
+**1. The sources do not match the reader.** This playbook says it is for one person with no budget. Almost every practitioner in it works inside a funded B2B SaaS sales organisation, and the mismatch shows in specific places. 1.2 describes entering an organisation at the bottom and reaching executives last, which is a campaign lasting months. 4.1 asks for five to eight touches per account, which multiplied across a real list is full-time work. Stage 5 assumes you have phone numbers, which usually come out of paid data tools. I have flagged the individual cases, but the pattern is bigger than the flags.
+
+**2. None of it has been tested by me.** I have not sent a single cold email under this playbook. Every recommendation here is somebody else's practice, selected and arranged by me. The selection and the arrangement are my work and I will defend those. The results are not mine to claim.
+
+**3. Stage 3 rests almost entirely on one source.** Jason Bay's masterclass is the only source in the collection with a real sample size behind it, and it therefore carries most of the writing stage. That is the right call on the evidence available, but it is a single point of failure : if that study's context differs from the reader's, most of Stage 3 moves with it and nothing else in the collection is measured well enough to catch the error. Two further things weaken it. The numbers are Gong's rather than Bay's, and Bay sells a course built with Gong, so the party reporting the finding is also selling access to it. And Bay built that course with 30MPC as well, which means two of my most-used sources are commercial partners rather than the independent voices I was treating them as.
+
+**4. The collection is narrow in place and time.** Eleven practitioners, almost all working in US and European B2B SaaS, publishing in English, mostly within the last year, mostly on LinkedIn and YouTube. Those platforms reward confident claims, which is likely why so few of the claims come with methodology. And LinkedIn shows relative timestamps, so several of my dates are approximate rather than exact.
+
+**5. The thing I am least able to support is the thing that is most mine.** Section D is the only part of this document with no citation, because there is nothing to cite. It rests on my own small experience and on an absence of evidence rather than any evidence, and an absence is the weakest kind of ground to build on.
+
+**6. What is missing entirely.** Nothing here covers what happens after a reply : qualification, discovery, or the point where outreach becomes a sales process. Nothing covers measurement, so a reader following this has no stated way to tell whether it is working. And there is nothing on the legal side of cold email, which differs by country and which I have not researched.
+
+**What does survive the first weakness, and I think this is worth stating plainly :** the whole of Stage 3, the whole of Stage 6, the pilot in 2.4, the calendar check in 2.5, the manual warming in 2.1 and the objection handling in 5.4 need no money and no colleagues. They can be run tonight by one person. That is a smaller playbook than the one above, and it is the honest one.
+
+
 
 ---
 
