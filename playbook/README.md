@@ -12,7 +12,7 @@ This playbook is written for a **first-time sender with no budget** : one person
 
 For the same reason, **I define the trade vocabulary the first time it appears.** Two months ago I did not know what B2B, SaaS or a pipeline were, and every source in this collection writes as though the reader already does. A playbook addressed to a beginner that speaks only to insiders is not addressed to a beginner. Where a recommendation only works if you buy something, I say so, and I give the version that survives without it.
 
-Every recommendation below cites the practitioner it came from. Anything that is **my own reasoning rather than theirs** is labelled **My note**, so the line between what a practitioner said and what I added is visible on the page. Where they contradict each other I don't average them : I pick a side and explain why, in [Where experts disagree](#b-where-experts-disagree). In two cases the disagreement turns out to be a difference of vocabulary rather than of substance, and I say that instead of inventing a winner.
+Every recommendation below cites the practitioner it came from. Where I reason about those sources rather than report them, the passage is marked My note. Passages that only explain how to read this document carry no such label, because they make no claim about anyone's work. Where they contradict each other I don't average them : I pick a side and explain why, in [Where experts disagree](#b-where-experts-disagree). In two cases the disagreement turns out to be a difference of vocabulary rather than of substance, and I say that instead of inventing a winner.
 
 ---
 
