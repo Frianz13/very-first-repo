@@ -124,3 +124,43 @@ Going in, I had no idea what this topic was. I first heard "Cold outreach pipeli
 The hardest part was the searching. Scrolling LinkedIn for posts actually relevant to this topic was genuinely tough, they're mixed in with everyone's other business content, so I had to look carefully. It was harder still with local practitioners, who I expected to fit but who rarely post about cold outreach at all.
 
 What I'm quietly proud of : I checked every source myself instead of trusting them blindly from AI assistant's search results, and that caught several that were mislabeled: videos credited to the wrong person, and a panel that wasn't a single expert. Catching those kept the whole collection honest. And what it taught me about myself is that I can pick up a completely unfamiliar, professional topic fast and that something I'd been doing on instinct for my own small business turned out to be the real thing, just without the vocabulary. I wasn't as far behind as I assumed.
+
+---
+
+
+# Task 3 — Playbook / SOP : Cold Outreach for B2B SaaS
+
+## About This Task
+
+**Date:** August 5, 2026
+
+The third task asked me to turn the research from Task 2 into something usable : a playbook or standard operating procedure, built entirely from the practitioners I collected, with every recommendation traced back to the person it came from. Beyond the procedure itself, the brief asked for the parts most write-ups leave out : where the experts contradict each other and which side I take, what I decided to leave out, at least one idea of my own, the weaknesses of the result, and whose material I would not recommend following.
+
+The full document is in [`playbook/README.md`](playbook/README.md).
+
+## What's In It
+
+| Section | Contents |
+|---|---|
+| **A. The pipeline** | 30 recommendations across 6 stages, from choosing who to contact through to handling the objection. Every one cited |
+| **B. Where experts disagree** | 5 conflicts, and my position on each |
+| **C. What I rejected and why** | 3 techniques I left out, with the reasoning |
+| **D. My original ideas** | 2 ideas that came from me rather than the sources |
+| **E. Weaknesses of this playbook** | 6 things I can see wrong with it |
+| **F. Who I would NOT recommend following** | One test, applied to every source, and where it lands |
+
+**50 citations, all linked. All 11 practitioners used.**
+
+## The Constraint I Set
+
+The playbook is written for a **first-time sender with no budget** : one person, one inbox, no paid data tools, no sales team. That was a deliberate choice. Most of the material I collected quietly assumes a funded B2B SaaS sales organisation, and a fair amount of it depends on paid software without saying so. Where a recommendation only works if you buy something, I say so and give the version that survives without it. For the same reason I define the trade vocabulary the first time it appears, since two months ago I did not know what any of it meant either.
+
+## Reflection
+
+The hardest part of this task was not writing it. It was checking it.
+
+I went back to the original transcripts and posts repeatedly, and each pass found something : quotations that had drifted a word or two from what was actually said, a date I had gotten wrong by a year, a count of sources that was simply incorrect. The most uncomfortable find was a conflict between two experts that I had nearly written up as a genuine disagreement, until I went back and confirmed that one of them had never made the claim at all. It would have read convincingly. It was not true.
+
+That experience shaped the whole document. It is why Section F judges sources by whether their claims can be checked without buying their product, and why I kept a figure in Section A that I explicitly say I would not plan around. It is also why Section E exists in the form it does : I would rather list the problems with this myself than have someone find them.
+
+The other thing this task gave me was Section D. Every practitioner I read writes for a market where cold contact is ordinary. Mine is not. In Indonesia the financial regulator has effectively told the public that unsolicited contact offering something of value is itself a warning sign, and none of the eleven address a market that starts from there. Working out what you actually do about that, using the structure of the deliverability stage as the model, is the part of this document that is genuinely mine.
