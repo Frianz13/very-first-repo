@@ -308,7 +308,41 @@ Three practitioners name three different things as the single biggest determinan
 
 ## C. What I rejected and why
 
-[TBD]
+### 1. The Cold Calling Power Hour
+
+Three or four people in one room with a speakerphone, taking turns to call while standing, each one learning from the call that just succeeded or failed in front of them.
+*(source: John Barrows, ["Cold Calling Power Hour"](https://www.youtube.com/watch?v=b6j1pivnsV0), published 07.02.2017)*
+
+I have left this out, and not because it is wrong. By every account it works, and the mechanism is obvious : calling is easier when you can hear someone else doing it badly and surviving.
+
+I left it out because its prerequisite is **other people**, and this playbook is written for one. Most things I dropped for cost can be substituted, since a paid tool usually automates something you can do slowly by hand. Colleagues cannot be substituted. Printed in a document addressed to a single reader, this stops being advice and becomes a reminder that they are alone, which is the opposite of what it is for.
+
+**If that reader ever has two colleagues, this goes straight back in.** It is the first thing I would add.
+
+### 2. Signal-based prospecting built on third-party data
+
+Six signal plays, each claimed to convert at three to four times normal rates : former employees now at a target account, companies mid tool-change, unhappy customers of a competitor, accounts with leadership disruption, old leads gone quiet, and conference or intent signals.
+*(source: Florin Tatulea, [LinkedIn](https://www.linkedin.com/posts/florintatulea_sales-outbound-activity-7453485429091246080-3YxK), post from 15.05.2026)*
+
+I have left this out on evidence, not on cost, and the evidence comes from inside this same collection.
+
+Allred ran experiments on exactly this and reports two results that cut against it : third-party intent data made **no measurable difference** compared with a well-chosen ICP, and sending quickly after a signal appeared **did not move reply rates** at all. He gives one exception, and it is the important part : **first-party** signals, such as somebody actually using your product.
+*(source: Will Allred, [LinkedIn](https://www.linkedin.com/posts/williamallred_weve-run-some-cold-email-experiments-for-activity-7458187629520592896-PpGl), post from 12.05.2026)*
+
+That exception is what settles it for this reader. First-party signals require a product with users, which is precisely what a first-time sender does not have. **The version of signal-based prospecting that survived Allred's testing is the version this reader cannot access, and the version they can buy is the version that measured at zero.**
+
+Tatulea's three-to-four-times figure arrives with no sample size, no time period and no control group, so I have no way to weigh it against a result that does come with an experiment behind it. I am not claiming signals never work. I am saying the only measurement I have says the accessible version does not.
+
+### 3. Images in cold email, which is the one I most wanted to keep
+
+An **A/B test**, meaning a comparison where two versions are sent to similar groups and the results measured against each other, reported cold emails with images performing about **three times** better than plain text, with relevant visuals cutting through inbox noise, alongside a recommendation to run a custom-domain tracking setup so that images and links do not damage deliverability.
+*(source: Florin Tatulea, [LinkedIn](https://www.linkedin.com/posts/florintatulea_the-data-speaks-for-itself-we-found-images-activity-7399473777866264577-wu3A), post from 15.12.2025)*
+
+I am a designer. This is the finding in the entire collection I would most like to be true, and that is the reason I have looked at it hardest.
+
+Two things stop me. The first is that the three-times figure has the same problem as the one above : no sample size, no control, no period. The second is structural, and it is the one that decided it. **The post recommends a paid tool to prevent the damage that the technique itself causes.** A recommendation whose own author bundles a purchase to contain its side effects is not a technique, it is a technique plus a dependency, and for a reader with one domain and no budget the dependency is the whole cost.
+
+I want to be precise about what I am **not** saying, because I got this wrong once while drafting. No source in this collection tests images against deliverability. Tatulea is the only practitioner here who links the two at all, and he links them in order to sell the fix. So this is not a case of one expert contradicting another. It is a single unverified claim that happens to arrive with an invoice, and I could not find a second opinion in either direction.
 
 ---
 
