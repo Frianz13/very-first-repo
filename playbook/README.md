@@ -49,6 +49,8 @@ The minimum is their website open in front of you. Beyond that, work a fixed ord
 Warm a sending domain for 3+ months, rotate between secondary domains, and never bulk-send from a single inbox. *Warming means sending small and slowly growing volumes from a new address, so the mail providers learn it belongs to a real correspondent rather than a bulk sender.* A message that lands in spam has no copy problem to solve.
 *(source: Will Allred, [LinkedIn](https://www.linkedin.com/posts/williamallred_weve-run-some-cold-email-experiments-for-activity-7458187629520592896-PpGl), post from 12.05.2026)*
 > **My note :** Every additional domain is a purchase, so this is partly outside the budget assumed here. A reader without one keeps the warming period and the low volume, and drops the rotation.
+>
+> None of the sources say how warming is actually done, which makes a three-month instruction impossible to follow. The mechanism is that a new domain has no history, so a provider seeing it send two hundred messages on its first day has nothing to weigh that against. What you are building is evidence of ordinary two-way correspondence. Done by hand, and free : send five to ten messages a day to people who genuinely know you, ask them to reply, because an address that only ever sends is the pattern being screened for, and raise the daily number slowly across weeks rather than in jumps. Paid warming software automates exactly this, at 25 to 50 messages a day ramping up, which is what the campaign in 2.3 used. The manual version costs time instead of money.
 
 #### **2.2) Fix the fundamentals before automating any of it.**
 Automating a broken process does not repair it. It reproduces the fault at scale.
