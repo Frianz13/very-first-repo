@@ -348,7 +348,45 @@ I want to be precise about what I am **not** saying, because I got this wrong on
 
 ## D. My original ideas
 
-[TBD]
+### 1. Warm the market the way you warm a domain
+
+Every practitioner in this collection writes for a market where cold contact is ordinary. Not welcome necessarily, but ordinary : expected, and in places necessary. **That assumption does not hold where I live.** In Indonesia, a call or a message from someone you do not know is assumed to be a scam before it is read. I did not discover this in research. It is simply what everyone here already knows, and it is the reason I had never thought of cold outreach as a normal thing to do.
+
+When I went looking for anyone publicly teaching B2B SaaS cold outreach in Indonesia, I found almost nothing. Two individuals on LinkedIn who rarely post on the subject, and one agency blog with no named author. The practice appears to be common and almost entirely undocumented.
+
+So none of the eleven can answer the question I actually have, which is what you do when the reader decides you are a fraud **before** reading the first line. Nothing in Stage 3 helps, because Stage 3 is about what the message says, and this decision is made before the message is read.
+
+**Here is the idea, and it comes from the structure of Stage 2.**
+
+You warm a domain because the mail provider has no history with you, and an address with no history that suddenly sends in volume is indistinguishable from a bulk sender. The provider is not judging your message. It is judging your record, and you have none.
+
+**A low-trust market does the same thing to the person.** The buyer is not judging your offer, they are judging your record, and to a stranger you have none. So the answer is the same shape as the technical one : **you do not fix it with better copy, you fix it by building a record before you need it.**
+
+In practice, three steps :
+
+1. **Sell first to people who already know you**, including at a lower price than you want. Make the discount explicit and conditional : you are buying the right to use their name.
+2. **Approach strangers with that name in the first line**, before the offer, not after it. The borrowed trust has to arrive before the reason to distrust you does.
+3. **Prefer channels where a shared connection is visible**, so the reader can verify the reference without asking you.
+
+**The principle underneath it : in a low-trust market, the first sale is not for the money. It is for the reference.**
+
+**Where this comes from and what it costs.** This is not hypothetical for me. It is what I have already been doing to sell design commissions, through WhatsApp Status, printed flyers, and offering to people who already knew me first, without ever having a name for it or knowing it was a category of anything. The cost is honest and it is the reason nobody writes this up : **it is slow, and it does not scale.** Domain warming takes three months and then you have a domain. Market warming has no end state, because every new circle of buyers starts you back at no record. It is a permanent tax on operating where I operate.
+
+**Its limit.** I have run this for design work sold to individuals and small shops, not for B2B SaaS, and not at any scale. I am generalising from a small number of my own sales. What I can say is that the problem it addresses is real and is not addressed anywhere in the eleven, and that a playbook written for this market that skipped it would be missing its first step.
+
+### 2. The three levers are not three levers
+
+Worked out in full in [Section B.5](#b-where-experts-disagree), because that is where it settles an argument, but the idea is mine rather than any source's, so I am claiming it here too.
+
+Three practitioners each name a different single biggest driver of outbound performance, and the field treats that as a disagreement to be settled by picking a winner. I think the disagreement is an artefact of the question. **The three quantities are not the same kind of object, so ranking them is not a meaningful operation.**
+
+One of them, deliverability, is a **gate** : it returns nothing extra when you push harder on it, and it takes everything else to zero when you neglect it. The other two, targeting and message, are **factors that multiply** rather than quantities that add. Neither is bigger, because either one at zero ends the result regardless of the other, and there is no sense in which one factor of a product outranks another.
+
+What replaces the ranking is a rule : **clear the gate once, then work on whichever factor is currently your weakest, and look again after.** A ranking claims to be true permanently and goes stale the moment your situation changes. A rule survives it.
+
+I have not seen this framing anywhere in the material I collected. Every source I read argues for their own lever, and none of them ask whether the three belong in the same list.
+
+**One closing note.** The gap I described above is the reason I would eventually like to write this material properly in Indonesian. There are people my age here who would want to learn this and currently cannot find it, which is how this playbook started for me.
 
 ---
 
