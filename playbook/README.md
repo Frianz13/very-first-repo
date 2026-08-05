@@ -356,6 +356,14 @@ When I went looking for anyone publicly teaching B2B SaaS cold outreach in Indon
 
 So none of the eleven can answer the question I actually have, which is what you do when the reader decides you are a fraud **before** reading the first line. Nothing in Stage 3 helps, because Stage 3 is about what the message says, and this decision is made before the message is read.
 
+**And the distrust is not folklore. In one sector the regulator has effectively endorsed it.**
+
+Indonesia's financial regulator, OJK, and the fintech lending association AFPI both state that a loan offered through SMS, a phone call or WhatsApp is, by definition, coming from an illegal lender. Not *likely* to be. By definition. The government's Illegal Financial Activity Task Force catalogues what follows : *pinjaman beranak*, a loan that silently compounds ; *pencairan fiktif*, a disbursement recorded against your name that never reaches you ; intimidation during collection ; and the deliberate publication of the borrower's personal data and contact list. A related pattern, *salah transfer*, has money arrive unrequested in someone's account, followed by demands to repay a far larger sum.
+
+So the problem is not that Indonesians are unusually suspicious. **My country's financial regulator has told the public that unsolicited contact offering something of value is itself the warning sign.** A cold message here does not start from neutral. It starts from a position the state has warned against, and no improvement in copywriting reaches that.
+
+**One widely repeated claim I checked and will not put in a playbook.** People here say that simply answering a call from an unknown number can empty your mobile banking. The outcome is real and documented, but the mechanism is not the call. What drains the account is an APK file installed from outside the Play Store, which forwards incoming SMS and captures what is typed so the attacker can harvest the one-time password, or a caller who talks the victim into reading that code aloud. **The call is the wrapper, not the weapon.** I make the distinction because a playbook that repeats a folk mechanism is doing exactly what I criticise Tatulea for in [Section F](#f-who-i-would-not-recommend-following-and-why).
+
 **Here is the idea, and it comes from the structure of Stage 2.**
 
 You warm a domain because the mail provider has no history with you, and an address with no history that suddenly sends in volume is indistinguishable from a bulk sender. The provider is not judging your message. It is judging your record, and you have none.
@@ -367,12 +375,14 @@ In practice, three steps :
 1. **Sell first to people who already know you**, including at a lower price than you want. Make the discount explicit and conditional : you are buying the right to use their name.
 2. **Approach strangers with that name in the first line**, before the offer, not after it. The borrowed trust has to arrive before the reason to distrust you does.
 3. **Prefer channels where a shared connection is visible**, so the reader can verify the reference without asking you.
+4. **Ask for nothing in the first contact, and make yourself checkable.** No form, no link, no details, no call scheduled. Every fraud pattern above begins with a stranger asking the recipient to *do* something. Give a name they can search, a place they can find you, and work you can be judged on, then stop. The first message is not for converting. It is for failing to match the shape of the thing they have been warned about.
 
 **The principle underneath it : in a low-trust market, the first sale is not for the money. It is for the reference.**
 
 **Where this comes from and what it costs.** This is not hypothetical for me. It is what I have already been doing to sell design commissions, through WhatsApp Status, printed flyers, and offering to people who already knew me first, without ever having a name for it or knowing it was a category of anything. The cost is honest and it is the reason nobody writes this up : **it is slow, and it does not scale.** Domain warming takes three months and then you have a domain. Market warming has no end state, because every new circle of buyers starts you back at no record. It is a permanent tax on operating where I operate.
 
 **Its limit.** I have run this for design work sold to individuals and small shops, not for B2B SaaS, and not at any scale. I am generalising from a small number of my own sales. What I can say is that the problem it addresses is real and is not addressed anywhere in the eleven, and that a playbook written for this market that skipped it would be missing its first step.
+
 
 ### 2. The three levers are not three levers
 
