@@ -12,7 +12,7 @@ This playbook is written for a **first-time sender with no budget** : one person
 
 For the same reason, **I define the trade vocabulary the first time it appears.** Two months ago I did not know what B2B, SaaS or a pipeline were, and every source in this collection writes as though the reader already does. A playbook addressed to a beginner that speaks only to insiders is not addressed to a beginner. Where a recommendation only works if you buy something, I say so, and I give the version that survives without it.
 
-Every recommendation below cites the practitioner it came from. Where I reason about those sources rather than report them, the passage is marked My note. Passages that only explain how to read this document carry no such label, because they make no claim about anyone's work. Where they contradict each other I don't average them : I pick a side and explain why, in [Where experts disagree](#b-where-experts-disagree). In two cases the disagreement turns out to be a difference of vocabulary rather than of substance, and I say that instead of inventing a winner.
+Every recommendation below cites the practitioner it came from. Where I reason about those sources rather than report them, the passage is marked 'My note'. Passages that only explain how to read this document carry no such label, because they make no claim about anyone's work. Where they contradict each other I don't average them : I pick a side and explain why, in [Where experts disagree](#b-where-experts-disagree). In two of the five, the disagreement turns out to be one of vocabulary or of scope rather than of substance, and I say that instead of inventing a winner.
 
 ---
 
@@ -94,7 +94,7 @@ Its only job is to earn the open, so it should not mention your product. Match t
 Including a trigger or a piece of context about the buyer raises reply rates roughly **fivefold**, from about 2% to about 10%. **For director-and-above personas, reference something happening at the company rather than something about the individual : company-level context produces a 50% higher reply rate.**
 *(source: Jason Bay, ["Cold Email Masterclass"](https://www.youtube.com/watch?v=JX1UNIJwcCY), published 05.05.2026)*
 
-> **Two other practitioners land in the same place from a different direction.** John Barrows argues that if you are forced to choose between personalisation and relevance you should take relevance, because a relevant question can be asked of fifty comparable buyers while a personal detail cannot be reused, and research time does not scale : *"Just because you know I went to the University of Maryland does not buy you any points these days."* Will Allred adds that the same product means different things to different seats, so a CFO, an FP&A director and a finance ops analyst should not receive identical messaging.
+> **Two other practitioners land in the same place from a different direction.** John Barrows argues that if you are forced to choose between personalisation and relevance you should take relevance, because a relevant question can be asked of fifty comparable buyers while a personal detail cannot be reused, and research time does not scale : *"Just because you know I went to the University of Maryland does not buy you any points these days."* Will Allred adds that the same product means different things to different seats, so three people in the same finance department should not receive identical messaging : a **CFO**, the executive who owns the company's finances, is thinking about a multi-year plan ; an **FP&A director**, who runs financial planning and analysis, the team that builds the forecasts, is thinking about how unreliable those forecasts are ; and a **finance operations analyst**, the person doing that work by hand every day, is thinking about the manual work itself.
 > Read together with Bay's figures, these are not three positions but one : personal trivia is dead, business context is not. The argument is treated properly in [Section B](#b-where-experts-disagree).
 > *(sources: John Barrows, ["Personalization vs Relevance"](https://www.youtube.com/watch?v=Cqw1jBYOm4U), published 29.03.2026 ; Will Allred, [LinkedIn](https://www.linkedin.com/posts/williamallred_one-of-the-biggest-problems-with-your-cold-activity-7442903238540013568-A5Ux), post from 15.04.2026)*
 
@@ -127,7 +127,7 @@ Split the value proposition across the sequence instead of loading it into the f
 *(source: John Barrows, ["Strategic Contact Strategy for Tier 1 Accounts"](https://www.youtube.com/watch?v=EDkjrZWyPUU), published 15.12.2017)*
 
 #### **4.2) In a cold sequence, never reference a failed attempt.**
-No *"did you get my last email"*, no *"bumping this to the top"*. It adds nothing for the reader and marks the message as a follow-up before they have read it. **This holds for cold contact only. After a real conversation the opposite applies, see 4.5.**
+No *"did you get my first email"*, no *"bubbling this one up to the top"*. It adds nothing for the reader and marks the message as a follow-up before they have read it. **This holds for cold contact only. After a real conversation the opposite applies, see 4.5.**
 *(source: John Barrows, ["Strategic Contact Strategy for Tier 1 Accounts"](https://www.youtube.com/watch?v=EDkjrZWyPUU), published 15.12.2017. Note the age of this source; see [Section F](#f-who-i-would-not-recommend-following-and-why))*
 
 #### **4.3) Connect email and calling into one pipeline rather than running them separately.**
@@ -140,7 +140,7 @@ Say during the call that you are going to send it. Then write it immediately, an
 *(source: John Barrows, ["How to Follow Up When You Get Ghosted"](https://www.youtube.com/watch?v=3ImjXwvqDtM), published 14.04.2026)*
 
 #### **4.5) If they then disappear, reply to that same email rather than starting a new one.**
-Assume something ordinary happened : *"Not sure what happened. Let me know when you want to reschedule."* Keep replying to the same thread so the whole sequence stays visible in one place. As a final message, change the subject line to **"Still interested?"** and ask them to answer either way, *"so I don't continue with unnecessary follow-up."*
+Assume something ordinary happened : *"Not sure what happened. Let me know when you want to reschedule."* Keep replying to the same thread so the whole sequence stays visible in one place. Late in the sequence, change the subject line to **"Still interested?"** and ask them to answer either way, *"so I don't continue with unnecessary follow-up."* Barrows keeps one further message after that, with the subject line changed again to *"Did I lose you?"*
 *(source: John Barrows, ["How to Follow Up When You Get Ghosted"](https://www.youtube.com/watch?v=3ImjXwvqDtM), published 14.04.2026)*
 
 ### Stage 5 — The call, and the objection that follows it
