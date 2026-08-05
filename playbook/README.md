@@ -418,12 +418,22 @@ I would rather list these myself than have them found.
 
 **What does survive the first weakness, and I think this is worth stating plainly :** the whole of Stage 3, the whole of Stage 6, the pilot in 2.4, the calendar check in 2.5, the manual warming in 2.1 and the objection handling in 5.4 need no money and no colleagues. They can be run tonight by one person. That is a smaller playbook than the one above, and it is the honest one.
 
-
-
 ---
 
 ## F. Who I would NOT recommend following (and why)
 
-[TBD]
+First, the test I used, because the answer depends on it. Nearly every practitioner in this collection is running a sales funnel. Allred co-founded a cold email tool. Colgan's workflow is built around Amplemarket. Barrows routes to a paid membership. Braun's video descriptions sell a guide and a set of flashcards. Tatulea recommends a specific paid tool inside the post making the claim. Bay closes his masterclass by promoting a paid course he built with Gong and with 30MPC, which are respectively the source of his data and another source in this collection. That is not disqualifying on its own, and treating it as disqualifying would leave nobody, because the people who do this work commercially are usually the only people who know it.
 
-# ---Working In Progress---
+So the test I applied is narrower : **can the claim be checked without buying the product?**
+
+**1. Florin Tatulea's numbers, though not his frameworks.** Every headline claim of his carries a multiplier and no method. Three to four times for signals, three times for images, 7% to 15% for objection handling. No sample size, no period, no control group, and in the case of the images claim, a specific paid tool named in the same post as the fix for the problem the technique creates. There is no way for a reader to verify any of it short of running the experiment themselves, which is the definition of failing the test above.
+
+I want to be direct about an apparent inconsistency, because it is visible in this document. **I use his objection-handling framework at 5.4 and I have kept his 7% to 15% figure attached to it.** That is deliberate. A framework can be judged on its structure : acknowledge, label, redirect, ask is a sequence a reader can inspect, try in one conversation, and abandon at no cost. A number can only be believed or disbelieved. **I use the shape and I would not plan around the figure**, and the reason the figure is still printed is that removing it would hide from the reader the exact thing I am warning them about.
+
+**2. John Barrows's 2017 and 2018 material, for anyone reading it as current.** Four of the six videos of his I used are from 2017 and 2018, between eight and nine and a half years old, in a field he himself describes as changed by AI. This is not speculation about drift : [Section B.3](#b-where-experts-disagree) documents his own advice reversing inside eight years, on a specific point, with no note from him that anything changed. His older material is still the clearest explanation of call structure I found, which is why it is in Stage 4 and Stage 5. But it should be checked against something recent before it is trusted, and he does not make that easy, because nothing in the old videos says how old they are.
+
+**3. The one I will not put on this list, and why.** Will Allred has the sharpest conflict of interest of anyone here : he co-founded a cold email tool and he publishes data about cold email. He passes the test anyway, and passes it better than anyone else in the collection, because the finding he published argues **against** buying software. Third-party intent data made no measurable difference against a well-chosen ICP. A man selling tooling who reports that a category of paid tooling does nothing is giving me a claim I can act on without buying anything from him. **Conflict of interest is a reason to read carefully, not a reason to discard**, and applying it mechanically would have cost me the best-evidenced source I had.
+
+**A limit on my own collection rather than on him :** Kevin Dorsey's three posts carry no exact date, because LinkedIn does not expose one, and by my own notes they surfaced through search rather than being chosen. I have used them, and a reader should know they are the least deliberately selected material in this document.
+
+
