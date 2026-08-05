@@ -149,7 +149,7 @@ The full document is in [`playbook/README.md`](playbook/README.md).
 | **E. Weaknesses of this playbook** | 6 things I can see wrong with it |
 | **F. Who I would NOT recommend following** | One test, applied to every source, and where it lands |
 
-**50 citations, all linked. All 11 practitioners used.**
+**49 citations, all linked. All 11 practitioners used.**
 
 ## The Constraint I Set
 
